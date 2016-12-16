@@ -11,7 +11,7 @@ If you don't know what a binary tree is or what it is used for, then [read this 
 ## Setup
 1. Download and install [Git] (https://git-scm.com/downloads), if you don't already have it.
 
-2. Open your terminal and run the git clone command:
+2. Open terminal and run the git clone command:
 
    ```
    $ git clone https://github.com/cramaechi/binary-search-tree.git
