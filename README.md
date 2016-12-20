@@ -30,14 +30,15 @@ If you don't know what a binary tree is or what it is used for, then [read this 
    ```
    $ make
    ```
-
-5. Run:
-
-   ```
-   $ ./tree_demo
-   ```
-
+   
 ## Testing
+Run:
+
+```
+$ ./tree_demo
+```
+
+Output:
 ```
 Enter up to 15 nonnegative integers, and press Return.
 5 8 2 1 6 13 3 4 0 9
