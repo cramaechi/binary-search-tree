@@ -38,7 +38,7 @@ Run:
 $ ./tree_demo
 ```
 
-Output:
+Sample Output:
 ```
 Enter up to 15 nonnegative integers, and press Return.
 5 8 2 1 6 13 3 4 0 9
